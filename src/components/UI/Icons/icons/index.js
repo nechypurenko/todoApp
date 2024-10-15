@@ -1,0 +1,8 @@
+export { EyeCloseIcon } from './eyeClose'
+export { EyeIcon } from './eye'
+export { CloseIcon } from './close'
+export { PlayIcon } from './play'
+export { AddIcon } from './add'
+export { EditIcon } from './edit'
+export { DeleteIcon } from './delete'
+export { ApplyIcon } from './apply'
